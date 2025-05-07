@@ -16,7 +16,7 @@ function Pricingplan() {
                 <h1 className="font-serif">Regular Member</h1>
                 <p className="">$50</p>
             </div>
-            <div className=" w-[100%] h-[30vh] bg-white rounded-b-md font-serif p-6">
+            <div className=" w-[100%] h-[30vh] bg-white rounded-b-md font-serif p-6 hover:scale-101 hover:drop-shadow-2xl transition-all ">
                 <p>United Access to the course</p>
                 <p>Customer Suport</p>
                 <p>Personal Mentor</p> 
@@ -35,7 +35,7 @@ function Pricingplan() {
                 <h1 className="font-serif">Regular Member</h1>
                 <p className="">$70</p>
             </div>
-            <div className=" w-[100%] h-[30vh] bg-white rounded-b-md font-serif p-6">
+            <div className=" w-[100%] h-[30vh] bg-white rounded-b-md font-serif p-6 hover:scale-101 hover:drop-shadow-2xl transition-all ">
                 <p>United Access to the course</p>
                 <p>Customer Suport</p>
                 <p>Personal Mentor</p> 
@@ -54,7 +54,7 @@ function Pricingplan() {
                 <h1 className="font-serif">Regular Member</h1>
                 <p className="">$100</p>
             </div>
-            <div className=" w-[100%] h-[30vh] bg-white rounded-b-md font-serif p-6 ">
+            <div className=" w-[100%] h-[30vh] bg-white rounded-b-md font-serif p-6 hover:scale-101 hover:drop-shadow-2xl transition-all ">
                 <p>United Access to the course</p>
                 <p>Customer Suport</p>
                 <p>Personal Mentor</p>
