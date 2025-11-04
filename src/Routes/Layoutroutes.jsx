@@ -22,6 +22,7 @@ function Layoutroutes() {
           <Route path="/Courses" element={<Courses />} />
           <Route path="/" element={<Home1/>} />
           <Route path="/Feedbacks" element={<Home1 />} />
+
           
         </Routes>
         <Footer/>
@@ -29,5 +30,6 @@ function Layoutroutes() {
     </>
   );
 }
+
 
 export default Layoutroutes;
